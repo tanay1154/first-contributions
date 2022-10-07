@@ -212,6 +212,7 @@
 - [Enver Can Oude Hergelink](https://github.com/Hergelink)
 - [Adrita Chakraborty](https://github.com/AD-2409)
 - [Atish Shah](https://github.com/Atish03)
+- [Tanay Patil](https://github.com/tanay1154)
 - [Anmol Dandiwal](https://github.com/anmol-dandiwal)
 - [Agoston Torok](https://github.com/agostontorok)
 - [Stephan Langenau](https://github.com/kaeptnkrunch)
